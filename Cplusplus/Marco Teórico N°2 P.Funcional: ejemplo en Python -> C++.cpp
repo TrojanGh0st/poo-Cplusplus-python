@@ -1,5 +1,5 @@
-"Programación funcional: se enfoca en la evaluación de funciones matemáticas puras, sin efectos 
-"secundarios y sin estado mutable. Un ejemplo en C++ sería:
+/*Programación funcional: se enfoca en la evaluación de funciones matemáticas puras, sin efectos 
+"secundarios y sin estado mutable. Un ejemplo en C++ sería:*/
 
 #include <iostream>
 using namespace std;
