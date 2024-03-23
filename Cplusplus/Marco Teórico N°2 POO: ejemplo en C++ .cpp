@@ -1,3 +1,7 @@
+//Programación orientada a objetos: utiliza objetos y clases para encapsular datos y
+//comportamientos, y proporciona un alto nivel de reutilización de código. Un ejemplo en Java -> C++ sería:
+
+
 #include <iostream>
 #include <string>
 using namespace std;
