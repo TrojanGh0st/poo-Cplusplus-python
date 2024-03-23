@@ -1,5 +1,5 @@
 """
-* NOMBRE     : pedido_tecnologico.cpp
+* NOMBRE     : pedido_tecnologico.py
 * AUTOR      : Todos los integrantes del Repositorio
 * FECHA      : 20/03/2024
 * DESCRIPCION: Estructuras para manejar pedidos de productos tecnológicos
