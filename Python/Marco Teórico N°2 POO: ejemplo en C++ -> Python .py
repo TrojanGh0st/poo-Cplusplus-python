@@ -1,3 +1,6 @@
+#Programación orientada a objetos: utiliza objetos y clases para encapsular datos y
+#comportamientos, y proporciona un alto nivel de reutilización de código. Un ejemplo en Java -> Python sería:
+
 class Coche:
     def __init__(self):
         self.modelo = "" 
